@@ -17,7 +17,7 @@ class FifthActivity:AppCompatActivity() {
             firstNameOutputTv.text = intent.getStringExtra(FIRST_NAME_EXTRA)
             lastNameOutputTv.text = intent.getStringExtra(LAST_NAME_EXTRA)
             emailOutputTv.text = intent.getStringExtra(EMAIL_EXTRA)
-            passworOutputTv.text = intent.getStringExtra(PASSWORD_EXTRA)
+            passwordOutputTv.text = intent.getStringExtra(PASSWORD_EXTRA)
         }
     }
 }

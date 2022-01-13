@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">material_design_jan12_trint02</string>
+    <string name="welcome_to_mountain_lonely_mountain">Welcome to Lonely Mountain App</string>
+    <string name="create_account">Create Account</string>
+    <string name="ask_name">What\'s Your Name?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="ask_email">And, Your Email?</string>
+    <string name="email_label">Email</string>
+    <string name="ask_password">Create a password</string>
+    <string name="password_label">Password</string>
+    <string name="well_done">Well Done!</string>
+    <string name="signup_complete">Sign up complete</string>
+    <string name="next">Next</string>
+</resources>
